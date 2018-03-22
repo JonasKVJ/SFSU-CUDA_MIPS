@@ -1,6 +1,6 @@
 # SFSU-MIPS
 Several courses on the MIPS ISA taken at San Francisco State University.
-The first course was Machine Structures taken Fall 2015 and the second was a high-level elective class called Computer Organization, taken during the Spring-18 semester. 
+The first course was Machine Structures taken Fall 2015 and the second was an advanced elective class called Computer Organization, taken during the Spring-18 semester. 
 Overview of assignments: 
 - Project 1: Optimization of pipelined instructions through reorganization, both in case of a single-issue and a multi-issue processor. One part of the project also involves unrolling a loop, such that one new iteration consists of four old ones. 
 
