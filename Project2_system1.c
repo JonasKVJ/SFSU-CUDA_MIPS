@@ -1,4 +1,4 @@
-//Jonas Vinter-Jensen. 912941515
+//Jonas Vinter-Jensen
 //CSC 656[01], San Francisco State University, Spring-18
 
 /*How to compile and run this program:
