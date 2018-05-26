@@ -1,4 +1,4 @@
-# SFSU-MIPS
+# SFSU-CUDA-MIPS
 Several courses on the MIPS ISA taken at San Francisco State University.
 The first course was Machine Structures taken Fall 2015 and the second was an elective class called Computer Organization, taken during the Spring-18 semester. 
 Overview of assignments: 
